@@ -1,0 +1,11 @@
+{
+  "arm": "full_regen",
+  "seed": 22,
+  "repair_rate": 0.6666666666666666,
+  "n": 3,
+  "mean_masked_fraction": 1.0,
+  "verifier_calls_budget_k": 4,
+  "wall_clock_s": 0.15161688000000595,
+  "label": "MOCK",
+  "denoiser": "TinyStandInDenoiser"
+}

@@ -1,0 +1,11 @@
+{
+  "arm": "ar_repair",
+  "seed": 11,
+  "repair_rate": 0.0,
+  "n": 3,
+  "mean_masked_fraction": 1.0,
+  "verifier_calls_budget_k": 4,
+  "wall_clock_s": 0.22807467600000564,
+  "label": "MOCK",
+  "denoiser": "ARRepairBaseline_stub"
+}
