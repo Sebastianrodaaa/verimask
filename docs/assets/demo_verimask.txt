@@ -1,0 +1,1 @@
+MOCK — animation uses scripted text, not Dream-Coder output.

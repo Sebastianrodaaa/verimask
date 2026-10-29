@@ -1,0 +1,11 @@
+{
+  "arm": "error_line",
+  "seed": 33,
+  "repair_rate": 0.0,
+  "n": 3,
+  "mean_masked_fraction": 0.9333333333333332,
+  "verifier_calls_budget_k": 4,
+  "wall_clock_s": 0.22738140699999576,
+  "label": "MOCK",
+  "denoiser": "TinyStandInDenoiser"
+}
